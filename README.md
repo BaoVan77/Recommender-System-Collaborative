@@ -32,4 +32,7 @@
      (Chú thích rõ hơn ở trong code)
   
 5. Training, testing và kiểm tra độ chính xác
+   - Chia 80 cho testing và 20 cho training
+   - Đo độ chính xác bằng thước đo RMSE (Root Mean Square Deviation)
+
 
